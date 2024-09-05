@@ -35,6 +35,11 @@ nav > a, .divDerecho > a {
 }
 
 .divFondoImagen {
-    background-image: ;
+    background-image: url("../recursos/imagenes/prison_break.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
 }
 
